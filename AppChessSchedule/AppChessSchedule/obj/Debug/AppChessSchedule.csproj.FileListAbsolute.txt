@@ -1,0 +1,11 @@
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\bin\Debug\AppChessSchedule.exe.config
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\bin\Debug\AppChessSchedule.exe
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\bin\Debug\AppChessSchedule.pdb
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.Form1.resources
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.Properties.Resources.resources
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.Vista.VentanaPais.resources
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.csproj.GenerateResource.cache
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.exe
+C:\Users\José\Desktop\Dev\ChessSchedule\AppChessSchedule\AppChessSchedule\obj\Debug\AppChessSchedule.pdb
